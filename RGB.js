@@ -69,9 +69,7 @@ for (var i = 0; i < colors.length; i++) {
         } else {
             incorrect(this);
         }
-
     });
-    
 }
 
 function correct() {
